@@ -170,7 +170,7 @@ PUTCHAR_PROTOTYPE{
 
  
  ## Circuit board :
-![image](https://github.com/user-attachments/assets/27f2c9ba-82cf-4dd6-8103-78c4d3e54665)
+ ![image](https://github.com/user-attachments/assets/f63b745e-21f0-42a4-a67f-06ae00bf5b01)
 
  
  ## Result :
